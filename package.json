@@ -1,5 +1,6 @@
 {
-  "name": "redux-app",
+  "name": "shopping-store",
+  "homepage": "https://ashutosh-360.github.io/shopping-store/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
